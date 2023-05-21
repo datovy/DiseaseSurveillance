@@ -1,2 +1,2 @@
-# DiseaseSuveillance
+# DiseaseSurveillance
 Communicable Disease Surveillance Project
